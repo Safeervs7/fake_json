@@ -1,0 +1,36 @@
+{
+   "success":true,
+   "objectId":null,
+   "object":{
+      "serviceId":null,
+      "providerId":"259af19d-18e9-4fa0-8171-537c3ee3233f",
+      "serviceName":null,
+      "providerName":"prov1@april1.com",
+      "mode":null,
+      "customerFlowDetailList":[
+         {
+            "name":"Test name",
+            "email":"",
+            "phone":"+919995814562",
+            "bookingCode":"3A327C",
+            "position":0,
+            "isConfirmed":null,
+            "timezoneId":"Asia/Kolkata",
+            "eventId":"6b6d4ccd89e97b669f63ad89233a327c",
+            "slot":1586313000,
+            "status":"UNSPECIFIED",
+            "mode":"SCHEDULE",
+            "sslot":"2020-04-08T08:00:00",
+            "sbookingTime":"2020-04-08T06:34:27",
+            "scheckingTime":null,
+            "scompletedTime":null,
+            "sserviceTime":null,
+            "scancelledTime":null
+         }
+      ]
+   },
+   "objects":null,
+   "totalResultCount":0,
+   "message":"success",
+   "errCode":null
+}
